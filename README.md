@@ -1,4 +1,4 @@
-# My really small vimrc file
+# Vim Config
 
 Run the theme-install.sh or change the set color line in .vimrc
 
