@@ -1,2 +1,12 @@
 # My really small vimrc file
-make sure the file is in ~/.vimrc
+
+Run the theme-install.sh or change the set color line in .vimrc
+
+`chmod +x theme-install`
+
+`./theme-install`
+
+mv .vimrc
+
+`mv .vimrc ~/.vimrc`
+
