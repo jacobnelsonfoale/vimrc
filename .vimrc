@@ -9,9 +9,6 @@ colo gruvbox
 set bg=dark
 syntax on
 
-map f :tabn  
-map d :tabp
-map g :Sex
 map <Tab> :tabnew
 
 
