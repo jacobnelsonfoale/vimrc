@@ -1,4 +1,5 @@
 # Vim Config
+*NOTE: NO LONGER WORKS*
 This is my vimrc
 
 #### NOTE: THE ./theme-install.sh HAS BEEN UPDATED AND YOU NOW NO LONGER HAVE TO MAKE /colors AND /bundle DIRECTORY YOURSELF
